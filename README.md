@@ -63,12 +63,13 @@
 5. **행동 추론 결과 출력**
 
 ---
-
+<!--
 ## ▶️ 실행 방법
 
 ```bash
 # 필수 패키지 설치
 pip install tensorflow keras pandas numpy scikit-learn
+-->
 
 # 모델 학습
 python train_model.py
