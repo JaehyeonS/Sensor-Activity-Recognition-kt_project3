@@ -18,9 +18,9 @@
 ---
 
 ## 🧠 분류 구조
-[모델 1] → 정적(0) vs 동적(1)
-   ├── [모델 2-1] → Laying, Sitting, Standing
-   └── [모델 2-2] → Walking, Walking-Up, Walking-Down
+- [모델 1] → 정적(0) vs 동적(1)
+-   ├── [모델 2-1] → Laying, Sitting, Standing
+-   └── [모델 2-2] → Walking, Walking-Up, Walking-Down
 
 ---
 
